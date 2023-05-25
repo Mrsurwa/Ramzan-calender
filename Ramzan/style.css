@@ -1,0 +1,88 @@
+
+* {
+    background-image: url(/back/ramzan.png);
+    background-repeat: no repeat;}
+
+.main-header {
+    display: flex;
+    
+}
+
+.ramzan {
+    color: aliceblue;
+    background-color:yellow;
+    width: 1200px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.span-1 {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 15px;
+}
+
+span {
+    border-bottom: 2px solid yellow;
+    padding: 3px;
+}
+
+th {
+    border: 2px solid yellow;
+    padding: 5px;
+}
+
+.day {
+    border: 2px solid yellow;
+    text-align: center;
+    padding: 5px;
+}
+
+.date {
+    border: 2px solid yellow;
+    text-align: center;
+    padding: 5px;
+}
+
+.heading {
+    border: 2px solid yellow;
+    text-align: center;
+    padding: 5px;
+}
+
+.number {
+    border: 2px solid yellow;
+    text-align: center;
+    padding: 5px;
+}
+
+table{
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.number:hover {
+    cursor: pointer;
+    color: white;
+    background-color: rgb(172, 172, 97);
+}
+
+.heading:hover {
+    cursor: pointer;
+    color: white;
+    background-color: rgb(172, 172, 97);
+}
+.date:hover{
+    cursor: pointer;
+    color:white;
+background-color: rgb(172, 172, 97);
+}
+.day:hover{
+    cursor: pointer;
+    color:white;
+background-color: rgb(172, 172, 97);
+transition: 2s;
+}
